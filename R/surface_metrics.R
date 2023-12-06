@@ -893,7 +893,7 @@ PFA_debris_flow <- function(dem = 'none',
 #'   files are written. If an input file for program partial is created,
 #'   it is written here.
 #'
-#' @return A \code{SpatRaster} of distance to the closest road for each DEM grid point.
+#' @return A DEV \code{SpatRaster}.
 #'
 #' @export
 #'
